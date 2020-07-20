@@ -74,43 +74,92 @@ experiences:
       time: 2017 August - Present
       company: Kurtosys Systems, Cape Town
       details: |
-        JOB SCOPE:
+        Job Scope:
         Responsible for providing direction and leadership to the database operations department while maintaining system integrity and overseeing operations of the existing database systems, purchasing, budgeting, staff development and deployment of new products. Driving scale, effectiveness, standardization, and productivity using strategic leadership, data-based problem solving, and process improvement methodologies. Responsible for identifying unstructured problems and opportunities, and lead the development of comprehensive strategies and solutions. Analyze large amounts of data to identify trend and root cause of various business problems and use this analysis to support improvement proposals
-        
-        RESPONSIBILITIES:
+         
+        Responsibilities:
         Partner with strategic decision makers in the organization, influence decision making and lead meetings. Investigate data issues, perform deep-dive analyses, propose and execute solutions, and define IT project requirements for issue resolution Lead multiple projects maintaining responsibility for project management, team leadership, data analysis, strategy development, implementation, training, and adoption Model, analyze, prioritize and improve processes using data-driven decisions, and standardize processes where applicable Create business cases and develop strategic recommendations for senior executives Understand business processes, the flow of data within and between processes, and recommend process improvements for better data quality and effectiveness Work with Automation and Infrastructure teams to clarify business process and data needs and provide guidance on the implementation of data and process-related IT projects Manage all technical operations at the system level to maintain the integrity of the operating environments and assure quality and consistency of all services to end users. Develop operational analytics for metrics and reporting of database systems
 
     - role: Senior Database Administrator
       time: 2017 January - 2017 August
       company: Kurtosys Systems, Cape Town
       details: |
-        Technologies used:
-        - MemSQL
-        - MySQL
-        - MSSQL
-        - Source Control
-        - Powershell
-        - Scrum/Kanban
-        - CDC
-        - TDE
+        Primary purpose of the role
+        - Responsible for the design and management of the organisation’s database architecture to ensure secure access and availability in accordance with the needs of the business.
+        Key accountabilities
+        - Manage the organisation’s database technology (MSSQL | MySQL | MemSQL) and associated schemas to allow secure, efficient and effective access to the organisation’s structured data.
+        - Review and revise practices and processes to enhance efficiency of access for users.
+        - Plan and implement regular system upgrades to enhance service continuity and user experience.
+        - Escalate unresolved system issues to appropriate vendors and manage these in accordance with agreed service level agreements to minimise user/system downtime.
+         
+        Key challenges
+        - Ensure effective access to data and information assets whilst maintaining the requirements of security, privacy and confidentiality.
+        - Apply techniques of data mining and data warehousing within the constraints of any legacy technology.
+         
+        Key relationships
+        - Executive Team / Manager
+        - Provide expert data management advice to guide the development of information management practices
+        - Escalate issues, keep informed, advise and receive instructions
+
 
     - role: Senior Database Administrator
       time: 2016 January - 2016 December
       company: Digital Outsource Services, Cape Town
       details: |
-        description goes here
+        Administer Microsoft SQL server database environments.
+        TSQL scripting and development on both new and existing functions.
+        Troubleshoot and resolve server, database and data issues.
+        Security maintenance of server and databases.
+        Maintenance and monitoring of SQL environment.
+        Provide debugging assistance to development and BI staff with DBMS.
+        Monitoring and completion of all Service Desk related calls.
+        Backup, setup and monitoring.
+        Assist in 24/7 on call support.
+        Providing high availability solutions (AlwaysOn | Clustering | Replication | Log Shipping).
+        Designs physical data structures to support application requirements (Design Database Architectures | Designs and builds relational databases | Building new databases).
+        Provides performance reviews and tuning recommendations for applications (Indexes or inefficient indexing and fragmentation issues | Locking/Blocking | I/O Bottlenecks | Memory Pressure | CPU Pressure).
 
     - role: Senior Database Administrator
-      time: 2014 March - 22016 December
+      time: 2014 March - 2016 December
       company: Sage Pay, Cape Town
       details: |
-        description goes here
+        Main duties included:
+        Providing high availability solutions (AlwaysOn | Clustering | Replication | Log Shipping).
+        Designs physical data structures to support application requirements (Design Database Architectures | Designs and builds relational databases | Building new databases).
+        Provides performance reviews and tuning recommendations for applications (Indexes or inefficient indexing and fragmentation issues | Locking/Blocking | I/O Bottlenecks | Memory Pressure | CPU Pressure).
+        Develops strategies for data acquisitions, archive recovery, and implementation of a database.
+        Consults with application developers regarding optimal use of SQL Server and related technology.
+        Tests and implements new releases of SQL Server-related software.
+        Trains development team in the use of SQL Server.
+        Provides debugging assistance to development staff with DBMS.
+        Application of server patches, monitoring and forecasting of database and server storage(SAN).
+        Making sure the information is protected and backed-up, ensuring all the data complies with legal regulations.
+        Assures compliance with standards through participation in design and code reviews.
+        Participates in providing on-call support.
+        Implement data cleaning routines using T/SQL, Stored Procedures.
+        Improving the technology used, and management of database monitoring tools through effective use of the database tools and services.
+        Troubleshooting.
 
     - role: Senior Database Administrator
       time: 2009 July - 2014 February
       company: Mweb, Cape Town
       details: |
-        description goes here
+        Administration of +/- 250 Microsoft SQL servers ranging:
+        SQL 6.5 / SQL 2000 / SQL 2005 / SQL 2008 / SQL 2012
+        Reporting Services
+        Integration Services
+        Analysis Services
+        Setup, maintenance and monitoring of backups.
+        Performance tuning,
+        Automation of daily tasks consisted of writing extensive stored procedures or triggers.
+        Microsoft Assessment and Planning Toolkit environment audits.
+        Production Support
+        Report Services
+        Microsoft Assessment and Planning Toolkit scan/audit
+        Upgrade and patching of SQL servers
+        Clustering
+        Extensive SSRS report writing.
+        Continuously ensured best practices and SOX policies were met.
 
 skills:
     title: Skills &amp; Proficiency
