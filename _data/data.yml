@@ -29,11 +29,8 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: 
-        level: 
+      - idiom: Afrikaan
+        level: Native
 
     interests:
       - item: one
@@ -48,12 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have a proven record of innovation, project management, and strategic project delivery with experience at a fast-growing financial services company. I am comfortable operating in a fast paced, unstructured “start-up” style, team-oriented organizational structure while leading diverse stakeholder groups.
 education:
     - degree: MSc in Computer Science
       university: University of London
