@@ -33,13 +33,13 @@ sidebar:
         level: Native
 
     interests:
-      - item: one
+      - item: Cycling
         link:
 
-      - item: two
+      - item: Hiking
         link:
 
-      - item: three
+      - item: Cooking
         link:
 
 career-profile:
@@ -70,7 +70,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Database Operations Manager
+    - role: Data Operations Manager
       time: 2017 August - Present
       company: Kurtosys Systems, Cape Town
       details: |
@@ -80,7 +80,7 @@ experiences:
         RESPONSIBILITIES:
         Partner with strategic decision makers in the organization, influence decision making and lead meetings. Investigate data issues, perform deep-dive analyses, propose and execute solutions, and define IT project requirements for issue resolution Lead multiple projects maintaining responsibility for project management, team leadership, data analysis, strategy development, implementation, training, and adoption Model, analyze, prioritize and improve processes using data-driven decisions, and standardize processes where applicable Create business cases and develop strategic recommendations for senior executives Understand business processes, the flow of data within and between processes, and recommend process improvements for better data quality and effectiveness Work with Automation and Infrastructure teams to clarify business process and data needs and provide guidance on the implementation of data and process-related IT projects Manage all technical operations at the system level to maintain the integrity of the operating environments and assure quality and consistency of all services to end users. Develop operational analytics for metrics and reporting of database systems
 
-    - role: Database Operations Manager
+    - role: Senior Database Administrator
       time: 2017 January - 2017 August
       company: Kurtosys Systems, Cape Town
       details: |
@@ -94,92 +94,45 @@ experiences:
         - CDC
         - TDE
 
-
-
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Database Administrator
+      time: 2016 January - 2016 December
+      company: Digital Outsource Services, Cape Town
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        description goes here
 
+    - role: Senior Database Administrator
+      time: 2014 March - 22016 December
+      company: Sage Pay, Cape Town
+      details: |
+        description goes here
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: Senior Database Administrator
+      time: 2009 July - 2014 February
+      company: Mweb, Cape Town
+      details: |
+        description goes here
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: MSSQL
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: MemSQL
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: MySQL
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Database Administration
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Performance Tuning
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Powershell
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    /
