@@ -70,21 +70,33 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Database Operations Manager
+      time: 2017 August - Present
+      company: Kurtosys Systems, Cape Town
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        JOB SCOPE:
+        Responsible for providing direction and leadership to the database operations department while maintaining system integrity and overseeing operations of the existing database systems, purchasing, budgeting, staff development and deployment of new products. Driving scale, effectiveness, standardization, and productivity using strategic leadership, data-based problem solving, and process improvement methodologies. Responsible for identifying unstructured problems and opportunities, and lead the development of comprehensive strategies and solutions. Analyze large amounts of data to identify trend and root cause of various business problems and use this analysis to support improvement proposals
+        
+        RESPONSIBILITIES:
+        Partner with strategic decision makers in the organization, influence decision making and lead meetings. Investigate data issues, perform deep-dive analyses, propose and execute solutions, and define IT project requirements for issue resolution Lead multiple projects maintaining responsibility for project management, team leadership, data analysis, strategy development, implementation, training, and adoption Model, analyze, prioritize and improve processes using data-driven decisions, and standardize processes where applicable Create business cases and develop strategic recommendations for senior executives Understand business processes, the flow of data within and between processes, and recommend process improvements for better data quality and effectiveness Work with Automation and Infrastructure teams to clarify business process and data needs and provide guidance on the implementation of data and process-related IT projects Manage all technical operations at the system level to maintain the integrity of the operating environments and assure quality and consistency of all services to end users. Develop operational analytics for metrics and reporting of database systems
+
+    - role: Database Operations Manager
+      time: 2017 January - 2017 August
+      company: Kurtosys Systems, Cape Town
+      details: |
+        Technologies used:
+        - MemSQL
+        - MySQL
+        - MSSQL
+        - Source Control
+        - Powershell
+        - Scrum/Kanban
+        - CDC
+        - TDE
+
+
+
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -96,17 +108,8 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+
 projects:
     title: Projects
     intro: >
