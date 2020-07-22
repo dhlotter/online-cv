@@ -3040,6 +3040,9 @@ readers do not read off random characters that represent icons */
 .fa-telegram-plane:before {
   content: "\f3fe"; }
 
+.fa-fa-facebook-messenger:before {
+  content: "\f3fe"; }
+  
 .fa-tencent-weibo:before {
   content: "\f1d5"; }
 
